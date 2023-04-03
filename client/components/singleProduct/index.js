@@ -27,7 +27,7 @@ function SingleProduct({ product }) {
                   stroke="currentColor"
                   stroke-linecap="round"
                   stroke-linejoin="round"
-                  stroke-width="2"
+                  strokeWidth="2"
                   className="w-4 h-4 text-indigo-500"
                   viewBox="0 0 24 24"
                 >
@@ -38,7 +38,7 @@ function SingleProduct({ product }) {
                   stroke="currentColor"
                   stroke-linecap="round"
                   stroke-linejoin="round"
-                  stroke-width="2"
+                  strokeWidth="2"
                   className="w-4 h-4 text-indigo-500"
                   viewBox="0 0 24 24"
                 >
@@ -49,7 +49,7 @@ function SingleProduct({ product }) {
                   stroke="currentColor"
                   stroke-linecap="round"
                   stroke-linejoin="round"
-                  stroke-width="2"
+                  strokeWidth="2"
                   className="w-4 h-4 text-indigo-500"
                   viewBox="0 0 24 24"
                 >
@@ -60,7 +60,7 @@ function SingleProduct({ product }) {
                   stroke="currentColor"
                   stroke-linecap="round"
                   stroke-linejoin="round"
-                  stroke-width="2"
+                  strokeWidth="2"
                   className="w-4 h-4 text-indigo-500"
                   viewBox="0 0 24 24"
                 >
@@ -71,7 +71,7 @@ function SingleProduct({ product }) {
                   stroke="currentColor"
                   stroke-linecap="round"
                   stroke-linejoin="round"
-                  stroke-width="2"
+                  strokeWidth="2"
                   className="w-4 h-4 text-indigo-500"
                   viewBox="0 0 24 24"
                 >
@@ -87,7 +87,7 @@ function SingleProduct({ product }) {
                     fill="currentColor"
                     stroke-linecap="round"
                     stroke-linejoin="round"
-                    stroke-width="2"
+                    strokeWidth="2"
                     className="w-5 h-5"
                     viewBox="0 0 24 24"
                   >
@@ -99,7 +99,7 @@ function SingleProduct({ product }) {
                     fill="currentColor"
                     stroke-linecap="round"
                     stroke-linejoin="round"
-                    stroke-width="2"
+                    strokeWidth="2"
                     className="w-5 h-5"
                     viewBox="0 0 24 24"
                   >
@@ -111,7 +111,7 @@ function SingleProduct({ product }) {
                     fill="currentColor"
                     stroke-linecap="round"
                     stroke-linejoin="round"
-                    stroke-width="2"
+                    strokeWidth="2"
                     className="w-5 h-5"
                     viewBox="0 0 24 24"
                   >
@@ -144,7 +144,7 @@ function SingleProduct({ product }) {
                       stroke="currentColor"
                       stroke-linecap="round"
                       stroke-linejoin="round"
-                      stroke-width="2"
+                      strokeWidth="2"
                       className="w-4 h-4"
                       viewBox="0 0 24 24"
                     >
@@ -166,7 +166,7 @@ function SingleProduct({ product }) {
                   fill="currentColor"
                   stroke-linecap="round"
                   stroke-linejoin="round"
-                  stroke-width="2"
+                  strokeWidth="2"
                   className="w-5 h-5"
                   viewBox="0 0 24 24"
                 >
